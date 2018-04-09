@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorSignIn"
+    tools:context="aurelhoxha.bilkent360.activity.Register">
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_marginBottom="50dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/finger"
+            tools:ignore="ContentDescription" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="20dp"
+            android:alpha="0.3"
+            android:background="#000000"
+            android:layout_marginEnd="20dp">
+
+            <ImageView
+                android:id="@+id/personImgId"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="7dp"
+                app:srcCompat="@drawable/person"
+                tools:ignore="ContentDescription" />
+
+            <EditText
+                android:id="@+id/registerPersonId"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:ems="10"
+                android:hint="@string/background_name"
+                android:inputType="textPersonName"
+                android:padding="5dp"
+                android:textColor="@color/myWhiteColor"
+                android:textColorHint="@color/myWhiteColor"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="20dp"
+            android:alpha="0.3"
+            android:background="#000000"
+            android:layout_marginEnd="20dp">
+
+            <ImageView
+                android:id="@+id/personImg2Id"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="7dp"
+                app:srcCompat="@drawable/person"
+                tools:ignore="ContentDescription" />
+
+            <EditText
+                android:id="@+id/registerEmailId"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:ems="10"
+                android:hint="@string/background_email"
+                android:inputType="textEmailAddress"
+                android:padding="5dp"
+                android:textColor="@android:color/background_light"
+                android:textColorHint="@android:color/background_light"
+                android:textSize="20sp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="20dp"
+            android:alpha="0.3"
+            android:background="#000000"
+            android:layout_marginEnd="20dp">
+
+            <ImageView
+                android:id="@+id/keyRegisterId"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="7dp"
+                app:srcCompat="@drawable/lock"
+                tools:ignore="ContentDescription" />
+
+            <EditText
+                android:id="@+id/registerPasswordId"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:ems="10"
+                android:hint="@string/background_password"
+                android:inputType="textPassword"
+                android:padding="5dp"
+                android:textColor="@android:color/background_light"
+                android:textColorHint="@android:color/background_light"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/signUpRegisterButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/colorPrimary"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="25dp"
+            android:text="@string/signup_buttonMessage"
+            android:textColor="@android:color/background_light"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

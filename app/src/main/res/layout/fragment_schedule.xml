@@ -1,0 +1,160 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="aurelhoxha.bilkent360.fragments.ScheduleFragment"
+    android:orientation="vertical"
+    android:weightSum="1">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Create Schedule"
+            android:id="@+id/textView2"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/getCourseName"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textStyle="bold"
+            android:hint="Enter a course name (Cs102 etc.)"
+            android:textColorHint="#ffffff"
+            android:background="@color/colorPrimary"
+            android:textColor="#ffffff"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="15dp" />
+    </RelativeLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Spinner
+                android:id="@+id/daySpinner"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:textColor="#000000"
+                android:padding="10dip"
+                android:layout_margin="4dip"
+                android:layout_weight="1"
+                android:text="Add Course"
+                android:textSize="12dp"
+                android:entries="@array/day_arrays"/>
+
+
+        </TableRow>
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow>
+            <Spinner
+                android:id="@+id/hour1Spinner"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:textColor="#000000"
+                android:padding="10dip"
+                android:layout_margin="4dip"
+                android:layout_weight="1"
+                android:text="Add Course"
+                android:textSize="12dp"
+                android:entries="@array/firstHour"/>
+        </TableRow>
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="103dp">
+        <TableRow>
+            <Spinner
+                android:id="@+id/hour2Spinner"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:textColor="#000000"
+                android:padding="10dip"
+                android:layout_margin="4dip"
+                android:layout_weight="1"
+                android:text="Clean Schedule"
+                android:textSize="12dp"
+                android:entries="@array/secondHour"/>
+        </TableRow>
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="bottom">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:layout_gravity="bottom"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/addNewCourse"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:textColor="#000000"
+                android:padding="10dip"
+                android:layout_margin="4dip"
+                android:layout_weight="1"
+                android:text="Add Course"
+                android:textSize="12dp"/>
+
+            <Button
+                android:id="@+id/reset"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:textColor="#000000"
+                android:padding="10dip"
+                android:layout_margin="4dip"
+                android:layout_weight="1"
+                android:text="Clean Schedule"
+                android:textSize="12dp"/>
+
+            <Button
+                android:id="@+id/showSchedule"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:textColor="#000000"
+                android:padding="10dip"
+                android:layout_margin="4dip"
+                android:layout_weight="1"
+                android:text="Show Schedule"
+                android:textSize="12dp"/>
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/schedule"
+            android:title="@string/nav_schedule" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/share"
+            android:title="@string/nav_share" />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/calendar"
+            android:title="@string/nav_calendar" />
+
+        <item
+            android:id="@+id/nav_task"
+            android:icon="@drawable/task"
+            android:title="@string/nav_taks" />
+
+        <item
+            android:id="@+id/nav_buildings"
+            android:icon="@drawable/maps"
+            android:title="@string/nav_buildings" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="@string/nav_about_us" />
+            <item
+                android:id="@+id/nav_log_out"
+                android:title="@string/nav_log_out" />
+        </menu>
+    </item>
+
+</menu>
