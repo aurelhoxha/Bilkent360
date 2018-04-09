@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2a878ef9156971c996c41953663f011730f61ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4a33768ee8f0af2b32dcc3fcde739950c25fc75">
+        <dex dex="/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7063d0c58b4dea93f8679263790ec2c0948103fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aurel/.android/build-cache/8eebd53733c41c968490793727fd5792ef442796/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/pre-dexed/debug/classes_84fa6e3a7e360ff63c96f2cfea8785ad0cfeb23f.jar" />
+    </item>
+
+</items>
