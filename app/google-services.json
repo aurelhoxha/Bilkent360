@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "588449533818",
+    "firebase_url": "https://bilkent360-5957c.firebaseio.com",
+    "project_id": "bilkent360-5957c",
+    "storage_bucket": "bilkent360-5957c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588449533818:android:9f55612f049b8f2e",
+        "android_client_info": {
+          "package_name": "aurelhoxha.bilkent360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588449533818-frci8q4s82jfvpl5ii7u7ic9lh184hr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aurelhoxha.bilkent360",
+            "certificate_hash": "9a7076f1c88e56b0b37018aadb5d218424a7cab2"
+          }
+        },
+        {
+          "client_id": "588449533818-faoln21ikjb1eqcr2tra7a62kkd0k7aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANiWnDNHhrLVFme6-hLDvsu4BRv0hCw7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588449533818-faoln21ikjb1eqcr2tra7a62kkd0k7aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
