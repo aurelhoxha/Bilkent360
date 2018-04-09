@@ -1,0 +1,390 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /Users/aurel/.android/build-cache/5659d46bb7b57d82624e60bb04c8a59e6902ee3a/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/aurel/.android/build-cache/9b351667deba73dd38b054cdcc8bed65f08f130c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/aurel/.android/build-cache/7d7c363c0f855af8762723e2b616d07052d37d87/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:10:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:11:22-70
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:12:5-98
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:12:22-95
+application
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:14:5-54:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aurel/.android/build-cache/10d6fbf2bbaddf128bd9ec091e729679610cdd44/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:24.0.0] /Users/aurel/.android/build-cache/0079ee50a568ed414bf429d3bfd5b2d47443c4e5/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aurel/.android/build-cache/f38609786601204e7ebc84190415c7fb968a37a2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aurel/.android/build-cache/27c7c4e43357dc918c6049fb87306b061ea9242d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/aurel/.android/build-cache/0dd4e5af6efc306846ef8cd3dad0071adc26be50/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.1] /Users/aurel/.android/build-cache/94b5c6e909b9555f23b98e45996b5354710a072e/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.1] /Users/aurel/.android/build-cache/a62933ecb52d95e971afe72b09a6e23e5f2df8ef/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-vision:11.0.1] /Users/aurel/.android/build-cache/b8adbb488a97518ffed555cce504b4f63774a001/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.1] /Users/aurel/.android/build-cache/55bf3c4d5c433702cf7aae7ffe921afa2e7aba07/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/aurel/.android/build-cache/9b351667deba73dd38b054cdcc8bed65f08f130c/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.1] /Users/aurel/.android/build-cache/8eebd53733c41c968490793727fd5792ef442796/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /Users/aurel/.android/build-cache/566aef8231feba41737834c1ef9fd6e0e48672e6/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.1] /Users/aurel/.android/build-cache/b6ff4b7117c719a994c87b14bed4a358fe31bbad/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/aurel/.android/build-cache/7d7c363c0f855af8762723e2b616d07052d37d87/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.1] /Users/aurel/.android/build-cache/ef647e7749a9fd8ed79bf5005ccaf338c7c35f45/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /Users/aurel/.android/build-cache/8e02d1dc9f3beb43b7e842e654290ea12bf4b802/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/aurel/.android/build-cache/4e8331bb9b82eb0f20ad1fe39862692b309fb16a/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aurel/.android/build-cache/df4c23cb1075030ccc1db9039a0dfde29f59f33a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aurel/.android/build-cache/e8b06dbf1391ed15bb19aa2e8a85f82ac6e4802e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aurel/.android/build-cache/30a1fba3e6748ec0468f06665389d12e21fbb3ac/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aurel/.android/build-cache/c504db282c2454d2c8e10cc1be307b6e0ab70c4a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aurel/.android/build-cache/8d2d5e5079fec2216411b785bb7392d6e7830f77/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aurel/.android/build-cache/2e28b191de0b25754f1c2d6225c826543a8ff3b8/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:19:9-35
+	android:roundIcon
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:16:9-40
+	android:theme
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:20:9-40
+activity#aurelhoxha.bilkent360.activity.MenuActivity
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:21:19-56
+activity#aurelhoxha.bilkent360.activity.AdminMenuActivity
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:22:9-73
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:22:19-61
+activity#aurelhoxha.bilkent360.activity.AboutUs
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:23:19-51
+activity#aurelhoxha.bilkent360.activity.SignInActivity
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:24:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:28:27-74
+activity#aurelhoxha.bilkent360.activity.Register
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:31:9-55
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:31:19-52
+activity#aurelhoxha.bilkent360.activity.EventActivity
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:32:19-57
+activity#aurelhoxha.bilkent360.activity.ForgotPassword
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:33:19-58
+activity#aurelhoxha.bilkent360.activity.Schedule
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:34:9-55
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:34:19-52
+activity#aurelhoxha.bilkent360.activity.ProcessCalendar
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:35:9-62
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:35:19-59
+activity#aurelhoxha.bilkent360.activity.AddNewBlog
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:36:9-57
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:36:19-54
+activity#aurelhoxha.bilkent360.fragments.AdminBuildingFragment
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:37:9-78
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:37:19-66
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:47:9-49:55
+	android:value
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:49:13-52
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:48:13-58
+activity#aurelhoxha.bilkent360.activity.MapsActivity
+ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:51:9-53:59
+	android:label
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml:52:13-50
+uses-sdk
+INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aurel/.android/build-cache/10d6fbf2bbaddf128bd9ec091e729679610cdd44/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:24.0.0] /Users/aurel/.android/build-cache/0079ee50a568ed414bf429d3bfd5b2d47443c4e5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.1] /Users/aurel/.android/build-cache/359d4332d4423705a523ae779c7f63ffc446863f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.1] /Users/aurel/.android/build-cache/c6ff70637350e7614487ff17b9c99fe5a551af6b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /Users/aurel/.android/build-cache/5659d46bb7b57d82624e60bb04c8a59e6902ee3a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aurel/.android/build-cache/f38609786601204e7ebc84190415c7fb968a37a2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aurel/.android/build-cache/27c7c4e43357dc918c6049fb87306b061ea9242d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/aurel/.android/build-cache/3391e53a3c93805589966a9a52cc89f1b633102e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/aurel/.android/build-cache/0dd4e5af6efc306846ef8cd3dad0071adc26be50/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.1] /Users/aurel/.android/build-cache/94b5c6e909b9555f23b98e45996b5354710a072e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.1] /Users/aurel/.android/build-cache/81b9f1920fd0832d677af4703520e81a4bb8cd75/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.1] /Users/aurel/.android/build-cache/9c2bb3d49fd0996cadf4abac0fe35433be911307/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.1] /Users/aurel/.android/build-cache/a62933ecb52d95e971afe72b09a6e23e5f2df8ef/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] /Users/aurel/.android/build-cache/45f70e99e4fa8367e7ebf70b1b0cc0bc14845563/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.1] /Users/aurel/.android/build-cache/b8adbb488a97518ffed555cce504b4f63774a001/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.1] /Users/aurel/.android/build-cache/55bf3c4d5c433702cf7aae7ffe921afa2e7aba07/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/aurel/.android/build-cache/9b351667deba73dd38b054cdcc8bed65f08f130c/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.1] /Users/aurel/.android/build-cache/8eebd53733c41c968490793727fd5792ef442796/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /Users/aurel/.android/build-cache/566aef8231feba41737834c1ef9fd6e0e48672e6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.1] /Users/aurel/.android/build-cache/b6ff4b7117c719a994c87b14bed4a358fe31bbad/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/aurel/.android/build-cache/7d7c363c0f855af8762723e2b616d07052d37d87/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.1] /Users/aurel/.android/build-cache/ef647e7749a9fd8ed79bf5005ccaf338c7c35f45/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /Users/aurel/.android/build-cache/8e02d1dc9f3beb43b7e842e654290ea12bf4b802/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/aurel/.android/build-cache/4e8331bb9b82eb0f20ad1fe39862692b309fb16a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aurel/.android/build-cache/df4c23cb1075030ccc1db9039a0dfde29f59f33a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aurel/.android/build-cache/e8b06dbf1391ed15bb19aa2e8a85f82ac6e4802e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aurel/.android/build-cache/30a1fba3e6748ec0468f06665389d12e21fbb3ac/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aurel/.android/build-cache/c504db282c2454d2c8e10cc1be307b6e0ab70c4a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aurel/.android/build-cache/8d2d5e5079fec2216411b785bb7392d6e7830f77/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aurel/.android/build-cache/2e28b191de0b25754f1c2d6225c826543a8ff3b8/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aurel/.android/build-cache/f38609786601204e7ebc84190415c7fb968a37a2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aurel/.android/build-cache/27c7c4e43357dc918c6049fb87306b061ea9242d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/aurel/.android/build-cache/3391e53a3c93805589966a9a52cc89f1b633102e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/aurel/.android/build-cache/0dd4e5af6efc306846ef8cd3dad0071adc26be50/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aurel/.android/build-cache/df4c23cb1075030ccc1db9039a0dfde29f59f33a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aurel/.android/build-cache/e8b06dbf1391ed15bb19aa2e8a85f82ac6e4802e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aurel/.android/build-cache/30a1fba3e6748ec0468f06665389d12e21fbb3ac/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aurel/.android/build-cache/c504db282c2454d2c8e10cc1be307b6e0ab70c4a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aurel/.android/build-cache/8d2d5e5079fec2216411b785bb7392d6e7830f77/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aurel/.android/build-cache/2e28b191de0b25754f1c2d6225c826543a8ff3b8/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/AndroidManifest.xml:26:9-47
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/aurel/.android/build-cache/a62933ecb52d95e971afe72b09a6e23e5f2df8ef/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/aurel/.android/build-cache/a62933ecb52d95e971afe72b09a6e23e5f2df8ef/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/aurel/.android/build-cache/a62933ecb52d95e971afe72b09a6e23e5f2df8ef/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/aurel/.android/build-cache/a62933ecb52d95e971afe72b09a6e23e5f2df8ef/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/aurel/.android/build-cache/a62933ecb52d95e971afe72b09a6e23e5f2df8ef/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/aurel/.android/build-cache/a62933ecb52d95e971afe72b09a6e23e5f2df8ef/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/aurel/.android/build-cache/a62933ecb52d95e971afe72b09a6e23e5f2df8ef/output/AndroidManifest.xml:25:25-75
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/AndroidManifest.xml:24:18-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] /Users/aurel/.android/build-cache/9b351667deba73dd38b054cdcc8bed65f08f130c/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/aurel/.android/build-cache/7d7c363c0f855af8762723e2b616d07052d37d87/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] /Users/aurel/.android/build-cache/9b351667deba73dd38b054cdcc8bed65f08f130c/output/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] /Users/aurel/.android/build-cache/9b351667deba73dd38b054cdcc8bed65f08f130c/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] /Users/aurel/.android/build-cache/9b351667deba73dd38b054cdcc8bed65f08f130c/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] /Users/aurel/.android/build-cache/9b351667deba73dd38b054cdcc8bed65f08f130c/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/aurel/.android/build-cache/566aef8231feba41737834c1ef9fd6e0e48672e6/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/aurel/.android/build-cache/566aef8231feba41737834c1ef9fd6e0e48672e6/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/aurel/.android/build-cache/566aef8231feba41737834c1ef9fd6e0e48672e6/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/aurel/.android/build-cache/566aef8231feba41737834c1ef9fd6e0e48672e6/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/aurel/.android/build-cache/7d7c363c0f855af8762723e2b616d07052d37d87/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/aurel/.android/build-cache/7d7c363c0f855af8762723e2b616d07052d37d87/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/aurel/.android/build-cache/7d7c363c0f855af8762723e2b616d07052d37d87/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/aurel/.android/build-cache/a0e46c031601a43255dc3ec9f821efbd345948d5/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/aurel/.android/build-cache/e0d09e3c1f454f4b80a285956b79b74f9df996e7/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/aurel/.android/build-cache/ef647e7749a9fd8ed79bf5005ccaf338c7c35f45/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/aurel/.android/build-cache/ef647e7749a9fd8ed79bf5005ccaf338c7c35f45/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/aurel/.android/build-cache/ef647e7749a9fd8ed79bf5005ccaf338c7c35f45/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/aurel/.android/build-cache/ef647e7749a9fd8ed79bf5005ccaf338c7c35f45/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/aurel/.android/build-cache/ef647e7749a9fd8ed79bf5005ccaf338c7c35f45/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] /Users/aurel/.android/build-cache/4e8331bb9b82eb0f20ad1fe39862692b309fb16a/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /Users/aurel/.android/build-cache/4e8331bb9b82eb0f20ad1fe39862692b309fb16a/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /Users/aurel/.android/build-cache/4e8331bb9b82eb0f20ad1fe39862692b309fb16a/output/AndroidManifest.xml:20:20-65
