@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

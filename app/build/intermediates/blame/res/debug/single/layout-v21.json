@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

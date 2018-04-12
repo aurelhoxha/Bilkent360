@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/calendar.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/calendar.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/finger.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/finger.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_check_black_24dp.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_check_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/schedule.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/schedule.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/task.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/task.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/add_circle.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_circle.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/add.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/maps.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/maps.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/share.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/share.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/calendari.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/calendari.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/iconbuilding.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/iconbuilding.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/finger1.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/finger1.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/location.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/generated/res/pngs/debug/drawable-anydpi-v21/location.xml"
+    }
+]

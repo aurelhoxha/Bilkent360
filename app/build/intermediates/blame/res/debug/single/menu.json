@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/menu/schedule_menu.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/res/menu/schedule_menu.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/menu/blog.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/res/menu/blog.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/menu/activity_admin_drawer.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/res/menu/activity_admin_drawer.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/menu/activity_menu_drawer.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/res/menu/activity_menu_drawer.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/menu/activity_admincalendar.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/res/menu/activity_admincalendar.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/menu/calendar.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/res/menu/calendar.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/menu/buildings.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/res/menu/buildings.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/menu/adminbuildings.xml",
+        "source": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/src/main/res/menu/adminbuildings.xml"
+    }
+]

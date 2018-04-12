@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/aurel/.android/build-cache/273b304a085c55887405e5a6d6f68b4de9ff2589/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

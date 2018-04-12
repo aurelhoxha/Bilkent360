@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/aurel/Desktop/CS102Summer/Project/Bilkent360/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/aurel/.android/build-cache/f30cdc06ef3751b94d0139cdba343f9ff747fb05/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
